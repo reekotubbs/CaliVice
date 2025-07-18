@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.jewrepo" name="[COLOR purple]JewRepo[/COLOR]" version="1.6.0" provider-name="JewBMX">
-    <extension point="xbmc.addon.repository" name="[COLOR purple]JewRepo[/COLOR]">
+<addon id="repository.calivicerepo" name="[COLOR purple]CaliViceRepo[/COLOR]" version="1.6.0" provider-name="ReekoTubbs">
+    <extension point="xbmc.addon.repository" name="[COLOR purple]CaliViceRepo[/COLOR]">
     <dir>
         <info compressed="false">https://raw.githubusercontent.com/reekotubbs/CaliVice/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/reekotubbs/CaliVice/master/addons.xml.md5</checksum>
@@ -14,7 +14,7 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Free the People, Free the World!</summary>
-        <description>JewBMX's Official Repository</description>
+        <description>ReekoTubbs's Official Repository</description>
         <platform>all</platform>
         <assets>
             <icon>icon.png</icon>
